@@ -1,0 +1,6 @@
+Hello, this is the first line.
+Here is the second line with a number: 12345
+This is the third line, and the number is 67890.
+Appending the fourth line with some more text.
+This is the fifth line, another number: 24680
+Here is the sixth line, end of file.
